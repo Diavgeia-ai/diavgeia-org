@@ -26,3 +26,5 @@ params:
   ananke_socials:
   - name: twitter
     url: https://twitter.com/diavgeia_org
+  - name: github
+    url: https://github.com/diavgeia-ai
